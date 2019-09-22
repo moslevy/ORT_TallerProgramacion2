@@ -1,6 +1,7 @@
 {
     "clase": 7,
     "objetivos": [
+        "resolucion eje JSON",
         "npmjs.com",
         "npm init",
         "npm install [express|lodash]",
