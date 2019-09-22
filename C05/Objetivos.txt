@@ -1,0 +1,7 @@
+OBJETIVOS CLASE 05
+==================
+
+1. Arrow Function
+2. Template Literals
+3. Day 5 Hackerrank (último día)
+4. Ejercicio vale por examen

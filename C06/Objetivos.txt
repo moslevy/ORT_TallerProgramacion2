@@ -1,0 +1,8 @@
+OBJETIVOS CLASE 6
+=================
+
+1. Resolución ejercicio vale x examen.
+2. Definición de module (export, require)
+3. Manejo de archivos (en forma sincrona).
+4. JSON 
+5. Practica aula virtual (archivos)

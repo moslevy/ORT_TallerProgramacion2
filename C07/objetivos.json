@@ -1,0 +1,14 @@
+{
+    "clase": 7,
+    "objetivos": [
+        "npmjs.com",
+        "npm init",
+        "npm install [express|lodash]",
+        "npm install -d nodemon",
+        "npm help install",
+        "npm install --produccion",
+        "SemVer",
+        "https://semver.npmjs.com/",
+        "npm i -g"
+    ]
+}

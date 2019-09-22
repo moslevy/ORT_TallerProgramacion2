@@ -1,0 +1,12 @@
+
+OBJETIVOS CLASE 04
+==================
+
+1.- Resolución de Balanced Brackets (2)
+2.- Try Catch
+3.- Clases en JS
+4.- Objetos avanzados
+5.- Objetivo DIA 4 Hackerrank
+
+
+
