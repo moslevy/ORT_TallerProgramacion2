@@ -11,8 +11,11 @@ const inventorNuevo = {
     year: 1976
 }
 
-datos.inventors = pushInventor(inventorNuevo, datos.inventors);
-saveInventors(path,datos);
+//datos.inventors = pushInventor(inventorNuevo, datos.inventors);
+//saveInventors(path,datos);
+
+datos.inventors = removeInventor(inventorNuevo, datos.inventors);
+saveInventors(path, datos);
 
 console.log(datos);
 
@@ -41,7 +44,10 @@ function saveInventors(path, datos){
  * @param {*} inventors 
  */
 function removeInventor(inventor, inventors){
-    
+    return inventors.filter(itemInventor => 
+            inventor.first != itemInventor.first &&
+            inventor.last != itemInventor.last
+    );
 }
 
 
