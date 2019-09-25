@@ -1,8 +1,8 @@
 {
     "clase": 7,
     "objetivos": [
-        "github",
         "resolucion eje JSON",
+        "github",
         "npmjs.com",
         "npm init",
         "npm install [express|lodash]",
@@ -11,6 +11,8 @@
         "npm install --produccion",
         "SemVer",
         "https://semver.npmjs.com/",
-        "npm i -g"
+        "npm i -g",
+        "aulavirtual 2 ejercicios",
+        "https://github.com/pablofernandezhinojosa/ORT_TallerProgramacion2"
     ]
 }
