@@ -1,4 +1,5 @@
 const fs = require('fs');
+const lodash = require('lodash');
 const path = './inventors.json';
 
 let datos = fs.readFileSync(path,'utf-8');
@@ -15,6 +16,7 @@ const inventorNuevo = {
 //saveInventors(path,datos);
 
 datos.inventors = removeInventor(inventorNuevo, datos.inventors);
+
 saveInventors(path, datos);
 
 console.log(datos);

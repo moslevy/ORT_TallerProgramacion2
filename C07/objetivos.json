@@ -6,12 +6,12 @@
         "npmjs.com",
         "npm init",
         "npm install [express|lodash]",
-        "npm install -d nodemon",
+        "npm install -D nodemon",
         "npm help install",
         "npm install --produccion",
         "SemVer",
         "https://semver.npmjs.com/",
-        "npm i -g",
+        "npm i -g express",
         "aulavirtual 2 ejercicios",
         "https://github.com/pablofernandezhinojosa/ORT_TallerProgramacion2"
     ]

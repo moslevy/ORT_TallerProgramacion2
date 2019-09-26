@@ -1,0 +1,17 @@
+{
+  "name": "persistenciaobjetos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "manejoObjetosPersistidos.js",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pablo Fernandez",
+  "license": "MIT"
+}
