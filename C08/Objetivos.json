@@ -1,0 +1,16 @@
+{
+    "clase": 8,
+    "objetivos": [
+        "Programación Asincrona",
+        "Manejo de archivos asincrono",
+        "Callbacks",
+        "Callbacks Hell",
+        "Timers",
+        "setTimeout",
+        "setInterval",
+        "Promises y Await"
+    ],
+    "desafios": [
+        "Desafio Timers"
+    ]
+}

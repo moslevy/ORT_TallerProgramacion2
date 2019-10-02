@@ -1,0 +1,19 @@
+{
+  "name": "tallerp2c08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablofernandezhinojosa/ORT_TallerProgramacion2.git"
+  },
+  "author": "Pablo Fernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pablofernandezhinojosa/ORT_TallerProgramacion2/issues"
+  },
+  "homepage": "https://github.com/pablofernandezhinojosa/ORT_TallerProgramacion2#readme"
+}
