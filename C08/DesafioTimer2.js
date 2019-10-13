@@ -6,16 +6,30 @@
  *  ...
  * Incluir en el mensaja el retardo impreso.
  * Ejem.
- *  Hola mundo 100
- *  Hola mundo 100
- *  Hola mundo 100
- *  Hola mundo 100
- *  Hola mundo 100
- *  Hola mundo 200
- *  Hola mundo 200
+ *  Hola mundo 1
+ *  Hola mundo 1
+ *  Hola mundo 1
+ *  Hola mundo 1
+ *  Hola mundo 1
+ *  Hola mundo 2
+ *  Hola mundo 2
  *  ...
  * 
  * Restricciones solo para avanzados:
  * Solo usar setInterval, no usar Timeout
  * Solo usar UNA instrucción If
  * */
+
+function saludo(interval){
+    let counter = 0;
+    const intervalId = setInterval(() => {
+        console.log("Hola mundo ", interval);
+        counter++;
+        if(counter == 5){
+            clearInterval(intervalId);
+            saludo(interval + 1);
+        }
+    }, interval * 100);
+}
+
+saludo(1);
