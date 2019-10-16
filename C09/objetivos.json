@@ -1,0 +1,19 @@
+{
+    "clase":9,
+    "objetivos": [
+        "solución a desafios timers",
+        "repaso async/await",
+        "modelo cliente servidor",
+        "protocolo http",
+        "ejemplo sencillo server",
+        "express https://expressjs.com/",
+        "nodemon i --save-dev",
+        "una api basica",
+        "postman",
+        "postear alta de inventors"
+    ],
+    "desafios": [
+
+    ]
+
+}

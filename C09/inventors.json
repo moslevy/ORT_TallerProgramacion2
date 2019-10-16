@@ -1,0 +1,46 @@
+{
+	"inventors": [
+		{
+			"id": 1,
+			"first": "Albert",
+			"last": "Einstein",
+			"born": "01/05/1879"
+		},
+		{
+			"id": 2,
+			"first": "Isaac",
+			"last": "Newton",
+			"born": "01/04/1643"
+		},
+		{
+			"id": 3,
+			"first": "Galileo",
+			"last": "Galilei",
+			"born": "01/03/1564"
+		},
+		{
+			"id": 4,
+			"first": "Marie",
+			"last": "Curie",
+			"born": "01/05/1867"
+		},
+		{
+			"id": 5,
+			"first": "Johannes",
+			"last": "Kepler",
+			"born": "01/02/1571"
+		},
+		{
+			"id": 6,
+			"first": "Nicolaus",
+			"last": "Copernicus",
+			"born": "01/03/1473"
+		},
+		{
+			"id": 7,
+			"first": "Max",
+			"last": "Planck",
+			"born": "01/06/1858"
+		}
+	]
+}
